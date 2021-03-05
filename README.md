@@ -1,6 +1,6 @@
 ## PHSX815_Week5
 
-#Homework 5 Notes:
+# Homework 5 Notes:
 
 * Added two scripts, *1d_sample.py* and *2d_sample.py*, which perform rejection sampling for either a 1D or 2D case.
 
